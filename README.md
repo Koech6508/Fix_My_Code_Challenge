@@ -1,0 +1,1 @@
+•	Fix my code is a new type of project, where we jumped into an existing code base and fix it! This is done using pre-written repos as initial files for all solutions. Did not code anything new, just fixing the existing code base
